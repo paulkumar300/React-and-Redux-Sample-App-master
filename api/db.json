@@ -1,0 +1,32 @@
+{
+  "bookmarks": [
+    {
+      "name": "npm-quick-run",
+      "url": "https://www.npmjs.com/package/npm-quick-run",
+      "categoryId": 1,
+      "id": 2
+    },
+    {
+      "name": "react-router-v4-not-working-with-redux",
+      "url": "https://stackoverflow.com/questions/45056150/react-router-v4-not-working-with-redux",
+      "categoryId": 1,
+      "id": 3
+    },
+    {
+      "name": "Altered Carbon ",
+      "url": "http://www.imdb.com/title/tt2261227/",
+      "categoryId": 2,
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "react"
+    },
+    {
+      "id": 2,
+      "name": "Tv Series"
+    }
+  ]
+}
